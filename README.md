@@ -1,5 +1,6 @@
-Hellow, I’m DrXther.
-I’m interested in coding,music and games.
+Hellowo, I’m DrXther.  
+I’m a computer sicience student that is *realy* passionate about GameDev field.  
+I also do some small university projects related to machine learning and quantum computing.
 
 <!---
 DrXther/DrXther is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
